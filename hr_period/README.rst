@@ -9,18 +9,21 @@ HR Payroll Period
 Adds the concept of payroll period.
 
 The objective is not to restrict or complicate the payroll workflow.
-It is meant to reduce the number of clicks related to date selections and avoid mistakes.
+It is meant to reduce the number of clicks related to date selections and
+avoid mistakes.
 
-Adds the date of payment on the payslip and payslip batch. This date is automatically filled when selecting
+Adds the date of payment on the payslip and payslip batch. This date is
+automatically filled when selecting
 a period.
 
-Adds a sequence on the payslip batch name and also adds the company on the payslip batch.
+Adds a sequence on the payslip batch name and also adds the company on the
+payslip batch.
 
 
 Installation
 ============
 
-Install the payroll of your localisation, then install this module.
+Install the payroll of your localization, then install this module.
 
 
 Configuration
@@ -38,8 +41,8 @@ Go to: Human Resources -> Configuration -> Payroll -> Payroll Fiscal Year
 The first period of the year is now open and ready to be used.
 
 Some companies have employees paid at different types of schedule.
-In that case, you need to create as many fiscal years as types of schedule required.
-The same applies in a multi-company configuration.
+In that case, you need to create as many fiscal years as types of schedule
+required. The same applies in a multi-company configuration.
 
 
 Usage
@@ -95,6 +98,7 @@ Contributors
 * Guewen Baconnier <guewen.baconnier@camptocamp.com>
 * Jordi Ballester Alomar <jordi.ballester@eficent.com>
 * Serpent Consulting Services Pvt. Ltd. <support@serpentcs.com>
+* Aaron Henriquez <aheficent@eficent.com>
 
 Maintainer
 ----------
